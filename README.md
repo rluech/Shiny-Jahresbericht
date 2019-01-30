@@ -1,6 +1,6 @@
 
 # Mediapulse Jahresbericht
 
-An interactive visualization in shiny app dashboard
+An interactive visualization with shiny dashboard
 
 https://rluech.shinyapps.io/jahresbericht
